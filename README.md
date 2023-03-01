@@ -24,6 +24,10 @@ Contribution, ideas, constructive criticism are highly welcome. If possible I wo
 ![image](https://user-images.githubusercontent.com/556083/222254499-67546b23-2944-4b04-9388-53d984a2f8b3.png)
 ![image](https://user-images.githubusercontent.com/556083/222255655-d776d36b-e0c2-4ad2-8bb1-8c516496848a.png)
 
+Section Analysis of the Hose-to-Female-Adapter
+![image](https://user-images.githubusercontent.com/556083/222261575-f3541ee1-6950-4a11-a503-69f1ecdcaceb.png)
+
+
 Modify supports for slip ring (in case your printer isn't calibrated properly, those supports can be easily cut off after printing and the slip ring turns)
 ![image](https://user-images.githubusercontent.com/556083/222260163-97f94b79-872f-4c71-9290-a2cdb5c7698e.png)
 
