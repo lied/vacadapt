@@ -29,7 +29,6 @@ Parameters:
 ![image](https://github.com/lied/vacadapt/assets/556083/5d0b5ab3-1d4a-465e-9d30-ab9ba1ad56b2)
 
 
-![image](https://user-images.githubusercontent.com/556083/222255655-d776d36b-e0c2-4ad2-8bb1-8c516496848a.png)
 ![image](https://github.com/lied/vacadapt/assets/556083/a75d590f-153a-4e8e-937d-08275b6c7de2)
 
 Section Analysis of the Hose-to-Female-Adapter
