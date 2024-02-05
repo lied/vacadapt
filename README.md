@@ -23,7 +23,12 @@ Contribution, ideas, constructive criticism are highly welcome. If possible I wo
 # Pictures :-)
 
 ## Fusion App
-![image](https://user-images.githubusercontent.com/556083/222254499-67546b23-2944-4b04-9388-53d984a2f8b3.png)
+![image](https://github.com/lied/vacadapt/assets/556083/802faecf-ec69-4d86-a5d6-138f33676e44)
+
+Parameters:
+![image](https://github.com/lied/vacadapt/assets/556083/5d0b5ab3-1d4a-465e-9d30-ab9ba1ad56b2)
+
+
 ![image](https://user-images.githubusercontent.com/556083/222255655-d776d36b-e0c2-4ad2-8bb1-8c516496848a.png)
 ![image](https://github.com/lied/vacadapt/assets/556083/a75d590f-153a-4e8e-937d-08275b6c7de2)
 
