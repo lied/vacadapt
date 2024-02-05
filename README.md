@@ -1,6 +1,8 @@
 # vacadapt
 VaCADapt
 
+# Download latest Fusion Project File
+[releases](https://github.com/lied/vacadapt/releases)
 
 # Usage
 - install Autodesk Fusion 360
